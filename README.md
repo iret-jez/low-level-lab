@@ -13,7 +13,7 @@ OS internals, memory management and binary analysis.
 ...
 
 ## Progress Log
-- [x] C basics
+- [ ] C basics
 - [ ] fork / exec
 - [ ] Virtual memory
 
