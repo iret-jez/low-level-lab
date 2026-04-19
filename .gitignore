@@ -1,0 +1,16 @@
+# All files
+*
+
+# Allow folders
+!*/
+
+# Allow C and markdown and gitignore
+!*.c
+!*.h
+!*.md
+!.gitignore
+
+# Ignore binaries
+*.out
+*.exe
+*.o
