@@ -37,7 +37,7 @@ int main(int argc, char** argv)
         append = 1;
         filename = argv[2];
     } else {
-        write(STDERR_FILENO, "Usage: tee [-a] file\n", 21);
+        write(STDERR_FILENO, "Usage: m_tee [-a] file\n", 23);
         return 1;
     }
 
